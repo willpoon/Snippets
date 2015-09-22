@@ -8,10 +8,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         System.out.println("hello world");
-//        System.out.println(randomArray(10)[0]);
-//        System.out.println(randomArray(10)[1]);
 //        int[] arr = randomArray(10);
-//        System.out.println(arr.length);
 //        printArray(randomArray(9));
 //        System.out.println(Arrays.toString(randomArray(9))); // 使用Arrays.toString , 不用再遍历每一个元素再打印。
 
